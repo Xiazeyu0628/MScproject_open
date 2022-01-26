@@ -1,0 +1,271 @@
+,ix,id,initial_input,content,correct,condition,issue,fixed,,,,,
+1,1,QYMDFKCG,The color control the square's color.,Fuzzy,14,A1,statechange,fixed_A,,,,,
+13,13,56L9EW8W,Cause can be found if only one looks hard and carefully. causes are objective and change in principle.,meaningless,3,A1,statechange,fixed_A,,,,,
+25,25,5RVTVU24,"I think that the active stones interacting with the inactive stones, create a darker stone altogether once tapped together. I also think that the active stone takes on the shape, at least partially of every inactive stone, resulting in a pentagon.",Specific,3,A1,statechange,fixed_A,,,,,
+48,48,5HNY30YI,"When knocked together, they increase the amount of sides of the the active stone by one.  It will also cause the active shape to be one shade darker than the shape on the right if it already isn't that shade.",Specific,18,A1,statechange,fixed_A,,,,,
+52,52,X9M7B9NT,"Bluestone is the term used to refer to the smaller stones at Stonehenge. These are of varied geology but all came from the Preseli Hills in south-west Wales.
+",meaningless,0,A1,statechange,fixed_A,,,,,
+59,59,DSULE403,its the rectangle goes to the stone of the octagon ,meaningless,1,A1,statechange,fixed_A,,,,,
+61,61,YTHMK0RD,"When an active square stone bumps into an inactive stone, it will change into an active pentagon. If the inactive stone is a darker color than the active square, the active square will also change into a darker colored pentagon, and the final color will be one shade darker than the inactive stone.",Incomplete,10,A1,statechange,fixed_A,,,,,
+63,63,5JUSSSP7,"The stones can go into the active or inactive state depends upon the condition. When the stones are interacted with each other, the properties of the stones to change. Active states glow with a straight light.",meaningless,6,A1,statechange,fixed_A,,,,,
+66,66,BVP1Y7HV,my own guess.The work was good.,meaningless,3,A1,statechange,fixed_A,,,,,
+68,68,O7WLKYBW,"If the stone that is moving interacts with a darker stone, It becomes an even more darker stone. If the stone that is moving moving is darker than the stone that it is going to collide with, it will stay the same color.",Incomplete,5,A1,statechange,fixed_A,,,,,
+69,69,H18NM7I5,"I believe that when the active stones that are squares hit any other stone regardless of color or shape, it will turn into a pentagon.",Incomplete,4,A1,statechange,fixed_A,,,,,
+74,74,JT2TWGZK,active squares when close to any inactive object except inactive square turns into an active pentagon,Incomplete,15,A1,statechange,fixed_A,,,,,
+82,82,1XPLODJT,"When active hits inactive the shape changes, when it hits active both color and shape might change.",Fuzzy,4,A1,statechange,fixed_A,,,,Specific,
+84,84,QAGLCBBP,An active square stone seems to change into a hexagon stone when interacting with any other shaped stone.  If also seems to increase it's brightness based on the stone it's interacting with.,Specific,3,A1,statechange,fixed_A,,,,,
+90,90,WT9R5OKW,"When an activated stone interacts with a non-active stone it causes a change depending on the shade of each shape and the specific shapes interacting.  If the object is a dark shade, the glowing object with darken a shade and change to from a sqaure to a pentagon.",Specific,5,A1,statechange,fixed_A,,,,,
+92,92,J5N5BQ8B,An active square stone bumping into an inactive stone of any shape or color will alter the active stones shape into a hexagon and color into a darker shade than the inactive stone it bumped into.,Specific,10,A1,statechange,fixed_A,,,,,
+99,99,5W6F3OH8,square stones turn into 6 sided stones no matter what they hit.The power of the stone increases when hit,Incomplete,0,A1,statechange,fixed_A,,,,,
+117,117,P8K190LO,"From the patterns that were shown, I noticed:
+
+- the first shape is always active
+- the first shape always starts as a square
+- the first shape always gets transformed from 4-points to 5-points
+- the second shape never changes
+- the second shape is always inactive
+
+
+I couldn't figure out the exact rules which determine which color the active stone ends up as. From the samples, I noticed the active stone could either end up as the same shade, a shade 1 step darker, or a shade 2 steps darker.",Fuzzy,10,A1,statechange,fixed_A,,,,,
+125,125,CNATHGXE,The light color or dark color is same result to join the pentagon. ,meaningless,2,A1,statechange,fixed_A,,,,,
+127,127,G1DWOVQ5,"The active stone gains one side after the collision. The shade of the active stone changes by a number of shades based on the shade of the inactive stone. If the inactive stone is light, the active stone's shade will not change.  If the inactive stone's shade is medium, the active stone's shade will darken by 1 shade.  If the inactive stone's shade is dark, the active stone's shade will darken by 2 shades. If the inactive stone's shade is very dark, the active stone's shade will darken by 3 shades.  The shape of the inactive stone does not effect anything else.  The inactive stone does not change.",Specific,10,A1,statechange,fixed_A,,,,,
+170,170,IJ7QBUPK,All colors and shapes are change.,meaningless,0,A1,statechange,fixed_A,,,,,
+176,176,YW8HBZD9,They turn dark and become a shape with one more side compared to what they had.,Incomplete,4,A1,statechange,fixed_A,,,,,
+192,192,A79IOD50,"If two stones of equal brightness interact the active one gets darker and becomes the average number of sides of the two stones. 
+
+If two stones interact and the active on is darker then the active one just becomes becomes the average number of sides of them with no brightness change
+
+If two stones interact and the active one is lighter then the number of sides increases and it gets darker.
+
+",Incomplete,9,A1,statechange,fixed_A,,,,,
+195,195,RUMMD7WR,"When an active square stone interacts with an inactive stone (triangle, hexagon or pentagon) it takes the shape of a pentagon. The colour of the active stone also changes - if the inactive stone is lighter in colour, the colour of the active stone remains the same. If the colour of the inactive stone is the same (e.g. 3rd exmample), the active stone becomes darker. If the inactive stone has a darker colour than that of the active stone,the active stone becomes dark blue when interacting with a hexagon, and navy-black when interacting with a triangle or pentagon.",Specific,7,A1,statechange,fixed_A,,,,,
+8,8,YK4Q54MP,"what I have observed myself,If those images depict actual objects observed under the claimed circumstances.",meaningless,0,A2,movement,fixed_A,,,,Incomplete,
+9,9,1D3R2SU2,Contact with the square turns the object the next shade darker and also changes it to a pentagon,Specific,12,A2,movement,fixed_A,,,,,
+10,10,46N7AJG2,"An active stone, when contacted with an inactive stone, makes the stone one shade darker and converts it into a shape with one more side than the active stone.",Specific,17,A2,movement,fixed_A,,,,,
+18,18,BS96ENLF,I remember the old concept. when two stones strike each other they produce fire. like wise these stones ( whether its active or inactive) produce heat energy which causes change in their properties when they interact.,Fuzzy,9,A2,movement,fixed_A,,,,,
+19,19,1LRR8LNY,"When coming in contact with an active stone, an inactive stone turns a shade darker and becomes a pentagon, no matter what shape it starts out as. If it's already a pentagon it stays a pentagon and still goes one shade darker.",Specific,10,A2,movement,fixed_A,,,,,
+20,20,9EXRB8WJ,"My best guess about these mysterious stones work is that the stones can go into the active state or the inactive state in the experiment which depends on the experimental condition which allocated with. No matter in which state, when the stones are interacted with each other, it causes the properties of the stone to change. The active state glow with a strange light ",Fuzzy,0,A2,movement,fixed_A,,,,,
+49,49,4OWSM3YG,"I noticed that whenever a lighter, inactive stone on the right hand side knocked into the active stone, the inactive stone turned a darker color. Lastly, I also noticed if the inactive stone is a triangle and the triangle hit against the active stone, the inactive stone turns into a five-sided stone that is one shade darker.",Incomplete,6,A2,movement,fixed_A,,,,,
+50,50,Z1K4CZ8H,"The active stone turns one shade darker and is forced to take five sides no matter what shape it is. If it already has five sides, it will just get one shade darker",Specific,17,A2,movement,fixed_A,,,,,
+58,58,K5GIEFBX,they make them a shade darker and change shape into a pentagon,Specific,8,A2,movement,fixed_A,,,,,
+65,65,1UW5XVNY,The Shape icon move and come next to the square ,meaningless,2,A2,movement,fixed_A,,,,,
+105,105,XYXP7RG5,"The active stone causes the inactives to change shades and shapes. It works in the following pattern:
+
+If the inactive stone is different than a pentagon, it will convert into one and it will also change its shade to a darker one.
+If the inactive stone is a pentagon, it will just change to a darker shade.",Specific,13,A2,movement,fixed_A,,,,,
+139,139,NP6RTEFR,"When the inactive stone bumps into the active stone, it will change into a pentagon shape. If the color was not the already the same as the active stone then the color will change to match the active stone's color. If the color was already the same as the active stone then the color will change to a darker color.",Specific,8,A2,movement,fixed_A,,,,,
+140,140,B3FPTYIC,"Whenever an inactive stone comes in contact with an active stone, the inactive stone turns into a pentagon and becomes a shade darker than what it was originally.",Specific,10,A2,movement,fixed_A,,,,,
+141,141,ANL2JIRJ,COLOR $ SHAPE CHANGEING PROPERTIES,meaningless,0,A2,movement,fixed_A,,,,,
+142,142,9J7UQKR7,Stone first come up light after modulated to pentagon and pentagon to dark ,Fuzzy,0,A2,movement,fixed_A,,,,,
+143,143,PA7CD7P7,Triangle changed to the hexagon,meaningless,2,A2,movement,fixed_A,,,,,
+144,144,ZZNHDA72,i follow the rules,meaningless,0,A2,movement,fixed_A,,,,,
+145,145,SC5A6YOJ,"The inactive stone makes the active stone a darker shade, it might also remove 1 side of the active stone shape.",Specific,4,A2,movement,fixed_A,,,,,
+146,146,HVC8ATFR,Any stone that bumps an active medium blue square will turn to a hexagon one shade darker that it was before.,Specific,9,A2,movement,fixed_A,,,,,
+147,147,NXMSBYRB,Stones are active and the properties are based on the color of the objects and it changes based on the active state,Fuzzy,2,A2,movement,fixed_A,,,,,
+148,148,RXPDRKZX,"When the inactive stone knocks against the active stone, it changes into a pentagon that is a hue darker than it's original hue. It doesn't matter what shape the inactive stone is because once it knocks with the active stone, it will either remain as a pentagon or turn into a pentagon. Then the color of the pentagon will change to a hue darker from its original shape. The color of the active stone is not important.",Specific,16,A2,movement,fixed_A,,,,,
+174,174,O7TWGBMP,ACTIVE  MEDIUM HEXAGON TO INACTIVE DARK PENTAGON AND ACTIVE MEDIUM PENTAGON  TO DARK PENTAGON AND  ACTIVE DARK TRIANGLE TO VERY DARK PENTAGON  AND DARK PENTAGON TO VERY DARK PENTAGON   AND ACTIVE LIGHT TRIANGLE TO INACTIVE MEDIUM PENTAGON AND ACTIVE LIGHT HEXAGON TO INACTIVE MEDIUM PENTAGON  ,Fuzzy,0,A2,movement,fixed_A,,,,,
+175,175,1F9QGFFP,active light color hexagon shape to in active medium pentagon. active light hexagon shape to in active dark pentagon. active dark color triangular shape to in active very dark color pentagon. active light color triangular shape to in active medium color pentagon shape. active medium color pentagon shape to in active dark color pentagon shape. active dark color pentagon shape to active very dark color pentagon shape . ,Fuzzy,0,A2,movement,fixed_A,,,,,
+189,189,DNV9PGCA,"When tapped against the glowing square the other inactive stones get a shade darker and increase their number of sides if they have less than the glowing square. Or they decrease the number of sides if they have more sides than the glowing square. 
+
+If the non glowing square has 5 sides then it only changes in shade.",Incomplete,15,A2,movement,fixed_A,,,,Fuzzy,Ä£ºý
+190,190,HMOEYR7N,"When an inactive stone hits an active square stone, the colour changes to a shade darker to what it originally was.  The shape also changes to a pentagon - however if the inactive stone already is a pentagon, there is no change in shape, just a change in colour.  The inactive stone remains inactive after the interaction.",Specific,14,A2,movement,fixed_A,,,,,
+191,191,HGOOB3BF,"when the stones get closer, the inactive changes into a Pentagon darker than before.",Specific,15,A2,movement,fixed_A,,,,,
+193,193,THKOU08G,"when the stones are interacted with each other, it causes the properties of the stone to change.the active state glow with a strange light. ",meaningless,0,A2,movement,fixed_A,,,,,
+194,194,M6RQMQAB,The active stone turns the inactive stone a shade darker and changes it into a pentagon ,Specific,16,A2,movement,fixed_A,,,,meaningless,
+196,196,YPQLKE7F,When an inactive shape hits an active square the shape will change to a pentagon.,Incomplete,1,A2,movement,fixed_A,,,,,
+197,197,ACX5CGM9,"When inactive stone hits the active square stone, the inactive changes to pentagon and gets one shade darker",Specific,7,A2,movement,fixed_A,,,,,
+11,11,Z5D3TGLB,"The square turns every non-pentagon stone into a pentagon and also one shade darker, while turning the pentagon stone just one shade darker.",Specific,16,A3,indicator,fixed_A,,,,,
+34,34,LFS90OQE,"A stone circle is a circular alignment of standing stones. They are commonly found across Northern Europe and Great Britain, and typically date from the Late Neolithic and Early Bronze Age eras, with most concentrations appearing from 3000 BC.",meaningless,0,A3,indicator,fixed_A,,,,,
+38,38,0VGJ3YP7,"IT IS VERY GOOD EXPERIMENT.Then, you will be asked to write your best guess of how the phenomena works: what causal rule (or rules) determine when, whether and how one stone change the other stone You will be paid $0.50 bonus if you write the correct hidden causal relation. THE IMAGES ARE SQUARE, triangle, pentagon, hexagon, colors are light, medium, dark, very dark. the colors are changed. it is very nice experiment.",meaningless,0,A3,indicator,fixed_A,,,,,
+45,45,CAWZT2VI,"In every case, the active stone (the one that was moving) changed the shape of the inactive stone to a pentagon shape. In terms of color, the inactive shape turned one shade of darker color from what it was after it was hit with the active stone. If the inactive shape was a dark blue color to begin with, it was changed to black.  If the inactive shape was a light blue, it turns to medium blue.  If the inactive shape was a medium blue, it turned to dark blue.",Specific,15,A3,indicator,fixed_A,,,,,
+53,53,UM4OM7RZ,The shape in the before box the shapes have a distant. But in left hand side the images come closer and the shape been changed.,meaningless,1,A3,indicator,fixed_A,,,,,
+55,55,ME1NHQ8O,The inactive stone does not glow before the collision. The collision of the active stone with the inactive stone makes it glow. like increase the color intensity of the inactive stone,Fuzzy,4,A3,indicator,fixed_A,,,,,
+56,56,7KBYPY1L,"In each of the six trials, a 'Stone A' (always an inactive, square, medium-blue stone) comes into contact with 'Stone B' (always inactive, but of various shapes and shades). This causes (1) Stone B to turn into a pentagon and (2) Stone B to darken by one shade.
+
+Given the limited data (i.e. Stone A was always the same, and no active stones ever appeared), it is impossible to say for sure exactly which properties produce the effect (e.g. what if Stone A were a triangle?).",Specific,17,A3,indicator,fixed_A,,,,,
+60,60,A38D229J,The stone shape and color change or color change.,Fuzzy,5,A3,indicator,fixed_A,,,,,
+67,67,SM7J4K48,"When the two stones collide and they are lighter, they make one of the stones darker.",Fuzzy,5,A3,indicator,fixed_A,,,,both,
+73,73,AB44V656,The square stone makes all other stones turn darker,Incomplete,4,A3,indicator,fixed_A,,,,,
+86,86,SK8VE0ZD,An active stone touching an inactive stone will make the inactive stone turn a darker shade of blue,Incomplete,8,A3,indicator,fixed_A,,,,,
+95,95,25YZCSB1,"If the square was paired with a hexagon, when they moved next to each other the hexagon would become a darker shade of blue. If the square was paired with another shape, the other shape would change into a hexagon when paired.",Incomplete,3,A3,indicator,fixed_A,,,,one_moving,
+98,98,N1VLQGWR,"The square hits the shape, if the shape is not shaded it turns darker once hit by the square, if it is a different shape than the previous shape it also changes shape and gets darker.",Incomplete,6,A3,indicator,fixed_A,,,,,
+106,106,3VWKSNI4,The before inactive stones always consist of a light square. The before inactive stones also consist of another inactive stone that is of random shape and of random color. The after inactive stones always consists of one light square (the same as the before inactive light square). The after inactive stone also always consists of a pentagon that is one shade darker than the random shape from the before inactive stones. ,Incomplete,10,A3,indicator,fixed_A,,,,one_static,
+107,107,LV68VRL8,The square is active (it's lighter and the instructions said they glow with light when active) and inactivates (darkens) the other shapes when it touches them. The square also makes the other shapes revert to pentagons.,Incomplete,10,A3,indicator,fixed_A,,,,none,
+108,108,PX4GEP40,"The stones have to be next to each other for them to become active. I think that those stones are drawn to each other naturally when they are close by. It seems like the square is the shape that moves near the other shape stones. So, the square is attracted to other shapes.",meaningless,2,A3,indicator,fixed_A,,,,,
+112,112,95HMH3TO,"When an inactive square hits another inactive shape, it always turns that shape into a pentagon.  And the shape it hits increases one shade of blue.  So, when the inactive square hits an inactive light-blue triangle, the triangle turns into a MEDIUM-BLUE pentagon.",Specific,11,A3,indicator,fixed_A,,,,,
+115,115,KLGXNAVN,The shades and sides of the stones are changing depends on the mysterious power of the stone which are colliding with it.,Fuzzy,4,A3,indicator,fixed_A,,,,,
+124,124,OIQAUADC,"Archaeology is the study of the human past using material remains. These remains can be any objects that people created, modified, or used.",meaningless,1,A3,indicator,fixed_A,,,,,
+132,132,6D3VY1IY,It turns them darker.,Fuzzy,2,A3,indicator,fixed_A,,,,,
+135,135,CSSB3S0H,8,meaningless,1,A3,indicator,fixed_A,,,,,
+136,136,H7VIQPS6,"The two shapes are  merged together which results to a different shape, also the color becomes deeper. like for instance square and triangle resulted to pentagon with a deeper shade of color.",Incomplete,2,A3,indicator,fixed_A,,,,,
+138,138,63WL7BZV,"Any inactive stone hit by an inactive square, will turn into an inactive pentagon 1 shade darker.",Specific,10,A3,indicator,fixed_A,,,,,
+5,5,R6NM9HDE,An active stone colliding with an inactive stone causes the shade of the inactive stone to darken. An active square stone causes an inactive triangle to gain two sides. An active square stone causes a hexagon to lose one side.,Incomplete,7,A4,original,fixed_A,,,,,
+15,15,I4V0NFWJ,Active stones cause changes to deeper color and more angles.,Fuzzy,6,A4,original,fixed_A,,,,,
+22,22,N09B0W4F,"The square converts everything(hectagon, triangle, etc) into a pentagon, and the collision ups the level of the target object by making it darker. If it's hectagon, it lowers its level by 1. ",Specific,15,A4,original,fixed_A,,,,,
+26,26,ZCFAXPMZ,"An active stone turns the color of the stone it touches one shade darker. Also, the active stone turns any stone it touches into a five-sided figure.",Specific,8,A4,original,fixed_A,,,,,
+37,37,Q1BYLQLX,"An active square will change the shade of any other inactive shape by a degree darker than what it was.  It will also change the shape from it's starting shape to a pentagon, unless it it is already so.",Specific,10,A4,original,fixed_A,,,,,
+42,42,69NTML2V,the active stone changes the inactive stone to a pentagon and increases the shade 1 level. ,Specific,14,A4,original,fixed_A,,,,,
+51,51,NXA7FEK9,I think the mysterious stones work by changing the colour of the stone in a set of segments. From lighter to darker after initialization. Depending on the shade it moves up a tier to a different category of either shape of colour(shade). ,Fuzzy,2,A4,original,fixed_A,,,,,
+70,70,RCWE4H1T,The active square will change another stone's shape to a pentagon and will darken the color by one shade.,Specific,16,A4,original,fixed_A,,,,,
+75,75,NR05103T,"I think the active stones only change the shapes of non pentagons when the collide. When they collide with pentagons, the color changes to a darker shade, likely the next darkest color of the options used.
+
+The active stones will always change the inactive color to a darker shade regardless of the shapes.",Specific,10,A4,original,fixed_A,,,,,
+100,100,P1I5CLO9,"1. If active Square Stone hits Pentagon stone it changes its color. 
+   Like in test 1: From medium to dark color
+        in test 4: From light to medium color
+        in test 5: From medium to dark color
+        in test 6: From dark to very dark or black color
+
+2. If active Square Stone hits Triangle stone it changes its shape also color. 
+   Like in test 2: From dark triangle to pentagon very dark color
+        in test 3: From light triangle to pentagon medium color
+",Fuzzy,8,A4,original,fixed_A,,,,,
+104,104,ZK3T42KK,"If an active square interacts with any inactive shape, the inactive shape becomes an inactive pentagon that is one shade darker than the original inactive shape. ",Specific,17,A4,original,fixed_A,,,,,
+110,110,2H8W26V2,it was moved to the shapes similar and active the shapes. there was similar shapes rearrange and make it dark shape,meaningless,0,A4,original,fixed_A,,,,,
+126,126,OYY7BH30,"When an active stone touches an inactive stone, the inactive stone becomes darker, and in most cases it's shape also changes. If it's shape has less than 5 sides it gains more sides, if it's shape has more than 5 sides it loses sides. If it has five sides, only it's color gets darker and the shape stays the same.",Specific,10,A4,original,fixed_A,,,,,
+137,137,ID1M3UH8,The square turns the other shape into a darker pentagon.,Incomplete,7,A4,original,fixed_A,,,,,
+158,158,4TK52QF8,cdcdcafe,meaningless,2,A4,original,fixed_A,,,,,
+159,159,YIN368CC,"The active stone causes the inactive stone to turn into a pentagon if it wasn't already one, and to become one shade darker.",Specific,15,A4,original,fixed_A,,,,,
+160,160,KSAJC4U9,"I think that when an active stone touches an inactive stone, it makes the inactive stone turn a darker color. It may also change the shape of the inactive stone, unless the inactive stone is a pentagon, pentagons stay the same shape.",Specific,8,A4,original,fixed_A,,,,,
+161,161,5QRWPQBU,"The moving stone, wghich is active, hits a shape. The color goes ""up 1"" (meaning very light -> light -> dark -> very dark) and changes the shape to a pentagon.",Specific,17,A4,original,fixed_A,,,,,
+162,162,9JZ7HV8M,before the test it is a hexagon shape and after the test that hexagon color are change their position ,Fuzzy,1,A4,original,fixed_A,,,,,
+163,163,R0XC9FJN,When the active stone connects with the inactive stone the inactive stone darkens by one shade whether it remains the same shape or not. ,Incomplete,10,A4,original,fixed_A,,,,,
+164,164,I4SFK2UM,1.Active stone Knock other stone which is in dark color means it will change to very dark color by combining it. In these the color of stones hits one another collided and changing the colors,Fuzzy,10,A4,original,fixed_A,,,,,
+165,165,G5KVZXXQ,"all square box change into many shape like triangle, pentagan,and color also change ",Fuzzy,1,A4,original,fixed_A,,,,,
+166,166,FGGLWSR1,the stone was active and the games was interesting to play.,meaningless,0,A4,original,fixed_A,,,,,
+167,167,C2KD1PWJ,ALL COLORS AND SHAPES ARE CHANGE,meaningless,1,A4,original,fixed_A,,,,,
+2,2,L8PY2A22,"When you knock an active stone against an inactive stone, the active stone changes and increases its' number of sides by one.",Incomplete,10,A5,statechange,fixed_R,,,,,
+3,3,ZRC4ACYB,"The active stone has a certain number of sides to it. As the active stone glides over and hit's the inactive square, the active stone stays active and adds one more side to it's total and adopts that shape. ",Incomplete,16,A5,statechange,fixed_R,,,,,
+4,4,KAMGHNX9,The active stones turn dark blue and gain an extra side or line to their shape,Specific,8,A5,statechange,fixed_R,,,,,
+6,6,0SI1R830,The active stone change there number of sides or right angles increase when they come in contact with inactive stones. They also change to a darker color than before. The exception was the triangle to turned into the square it touched. ,Incomplete,1,A5,statechange,fixed_R,,,,,
+7,7,FFBPRICE,"Any active stone hitting the inactive square stone becomes a very dark, active stone, with a new shape that has one more side than what the active stone's shape was prior to being hit.",Specific,4,A5,statechange,fixed_R,,,,,
+33,33,ZV49ABQP,"The stones can go into the active state or the inactive state in the experiment which depends on the experimental conation you are allotted with. The range of the shades in the medium and dark to very dark . the variety of the shapes is triangular ,square ,pentagon and hexagon ,etc..",meaningless,0,A5,statechange,fixed_R,,,,,
+35,35,YOKKU8GH,It seems to me that the inactive square stone has the effect of adding another angle to the active shape that touches it. It will also turn the shape one shade darker after the interaction.,Specific,8,A5,statechange,fixed_R,,,,,
+36,36,KXO53THQ,bumping up against a blue square adds a side to the target and leaves it activated ,Incomplete,10,A5,statechange,fixed_R,,,,,
+46,46,KRJR3NI7,"When a stone is tapped against the light square, a side is added and it is made a shade darker. If it is already dark, only one side is added and the shade remains the same. Example: light triangle becomes dark square.",Specific,6,A5,statechange,fixed_R,,,,,
+62,62,XD8SAV5U,The active stones turn darker and gain one more side when they hit the other stone.,Specific,10,A5,statechange,fixed_R,,,,,
+64,64,4E9BQ6ML,"When an active stone interact with the blue inactive square, its sides increase by one apart from the six sided stones. The stone colors also becomes more dense. Inactive stones are not affected by the interaction.",Specific,9,A5,statechange,fixed_R,,,,,
+72,72,T5UFH6CH,when an active stone hits a square inactive stone it gains a side.,Incomplete,9,A5,statechange,fixed_R,,,,,
+77,77,WOBSXZOD,"So, the stones on the left (in each test) are already active because they are glowing around their edges. The stone (or stones?) on the right, are always inactive in each test. When the stones on the left (in each test) are brought together to interact with the stone on the right, they *continue* to remain active and glowing. The are two differences that occur after the interaction, though. When the stones hit, the left stone gains one more *side*. So, if a triangle interacts with the stone on the right, it gains one more side and becomes a square. Separately, it changes to be one shade darker as well. It takes on a shade from the inactive rock, but the inactive rock does not change in shape and it does not lose any of it's coloring -- visibly to the human eye that is.",Specific,8,A5,statechange,fixed_R,,,,,
+80,80,YTR7PELN,Based on the starting shade it transforms into a different shape every time it gets closed to the stone standing still.,Fuzzy,2,A5,statechange,fixed_R,,,,,
+97,97,7U4CJV2T,Colors and shapes being a major role to predict correctly in the changes thus occur.,Fuzzy,2,A5,statechange,fixed_R,,,,,
+103,103,QG085ALE,"It seems like the active stone will get a shade or two darker and then it will add a side. So if it starts as a triangle, the active stone will become a square. If it is a hexagon, it will be a seven-sided shape.",Incomplete,10,A5,statechange,fixed_R,,,,,
+111,111,80KBWCKG,The darkness of the color and the shape before and after they hit.,meaningless,3,A5,statechange,fixed_R,,,,,
+121,121,F26TNJ1K,The shape and the state of the stone,meaningless,7,A5,statechange,fixed_R,,,,,
+128,128,AK0P33QQ,"The active stone move towards the inactive stone, than it change into another shape. This change is does not depends upon the shades of the stones. It depends upon the shape of the active stone. For example, If three side stone like in triangle shape active stone is change into a four side active stone like in square shape.",Incomplete,11,A5,statechange,fixed_R,,,,,
+129,129,XPBW8DDP,no,meaningless,0,A5,statechange,fixed_R,,,,,
+179,179,H157UU6P,The glowing stone will turn dark blue and gain a side.  So a triange will be a square.,Incomplete,10,A5,statechange,fixed_R,,,,,
+180,180,461NCQU4,The active stone gets one shade darker and adds one more point to its shape when it comes into contact with the inactive stone. The inactive stone never changes.,Specific,5,A5,statechange,fixed_R,,,,,
+183,183,XDTFA6V4,"The active stone when bumped into an inactive stone gains sides. If an active stone with three sides bumps into the inactive stone, it will gain an additional side for a total of four sides. A active stone with four sides that bumps into an inactive stone will gain one additional side for a total of five sides. ",Incomplete,5,A5,statechange,fixed_R,,,,,
+186,186,JPNQWABJ,"It seems that when an active stone impacts this non-active stone (the square shaped one), then the stone will gain an extra point. For example, a triangle becomes a square, as a third point is added onto the three point triangle to make into a four point square.",Incomplete,8,A5,statechange,fixed_R,,,,,
+12,12,GVPAX3Z0,5 side shape that is glowing turns a square of any shade into 6 sided dark shape. triangle glowing turns squares into dark squares.,Fuzzy,5,A6,movement,fixed_R,,,,,
+14,14,5AX1M7GG,The color of the inactive stone became darker and its sides will has one side more than the shape of the active stone.,Specific,11,A6,movement,fixed_R,,,,,
+21,21,EU5NMBXE,"If an inactive stone touches an active stone, it does two things. First, it turns it dark blue. And, it will adjust the shape of the stone that touched it such that it has one more side than the active stone. Any stone that touches the active stone will have one side more than the active does, after touching, unless it already had one more, then it will remain as is.",Specific,10,A6,movement,fixed_R,,,,,
+32,32,AYKN0SPL," Archaeology is the study of the human past using material remains. These remains can be any objects that people created, modified, or used.",meaningless,1,A6,movement,fixed_R,,,,,
+39,39,C6FER4RP,The stones cause the other object to become darker. The stones also cause the other object to gain a side.,Specific,8,A6,movement,fixed_R,,,,,
+40,40,MHF25TE9,"When two stones (different shapes) strike each other, one stone is converted to a shape that has more sides. example: when square and pentagon stones strike each other , square shaped stone is converted to pentagon shapes stone.",Fuzzy,6,A6,movement,fixed_R,,,,,
+47,47,9RK35PNZ,"An active triangle will cause a shape that hits it to become darker, but it will remain the same shape. An active hexagon will also cause a shape that hits it to become darker, but will also change it into a hexagon.",Incomplete,2,A6,movement,fixed_R,,,,,
+54,54,IQUM9BN0,"When an inactive stone comes into contact with an active one the inactive one changes. The inactive one becomes darker, and it can also change shape in the case of it contacting an active stone that has more than 3 sides to the shape it is.",Incomplete,9,A6,movement,fixed_R,,,,,
+57,57,8DXY77T0,"I think when an active stone hits an inactive stone thee inactive stone is turned a deeper blue. Also, if the active stone is a hexagram or a pentagram, it turns the inactive stone into a hexagram.",Incomplete,5,A6,movement,fixed_R,,,,,
+76,76,FBPLGF63,"When an inactive stone hits an active stone it changes to the dark color (regardless of whatever colors either stone had to start). Also, if the inactive stone had more sides than the active stone, then nothing else changes. But if the inactive stone had fewer sides than the active stone then it changes shape - to a shape that has one more side than the active stone does.",Specific,10,A6,movement,fixed_R,,,,,
+87,87,U0AYS341,"1. ACTIVE STONE PENTAGON AND INACTIVE STONE SQUARE ARE INTERACTED WITH EACH OTHER . IT CAUSE THE PROPERTIES OF THE STONE TO CHANGE  MEDIUM SQUARE TO DARK HEXAGON.
+
+2. ACTIVE STONE HEXAGON AND INACTIVE STONE SQUARE ARE INTERACTED WITH EACH OTHER . IT CAUSE THE PROPERTIES OF THE STONE TO CHANGE MEDIUM SQUARE TO DARK HEPTAGON.
+
+3. ACTIVE STONE HEXAGON AND INACTIVE STONE SQUARE ARE INTERACTED WITH EACH OTHER . IT CAUSE THE PROPERTIES OF THE STONE  CHANGE LIGHT SQUARE TO DARK HEPTAGON.
+
+4. ACTIVE STONE TRIANGLE AND INACTIVE STONE SQUARE ARE INTERACTED WITH EACH OTHER . IT CAUSE THE PROPERTIES OF THE STONE CHANGE LIGHT SQUARE TO DARK SQUARE.
+
+5. ACTIVE STONE PENTAGON AND INACTIVE STONE SQUARE ARE INTERACTED WITH EACH OTHER. IT CAUSE THE PROPERTIES OF THE STONEO CHANGE LIGHT SQUARE TO DARK HEXAGON.
+
+6. ACTIVE STONE TRIANGLE AND INACTIVE STONE SQUARE ARE INTERACTED WITH EACH OTHER. IT CAUSE THE PEOPERTIES OF THE STONE CHANGE LIGHT SQUARE TO DARK SQUARE",Fuzzy,2,A6,movement,fixed_R,,,,,
+91,91,ZGAEFSWM,"When an inactive stone collides with an active stone, it because a darker shade. Also, depending on the shape of the active stone, the inactive stone can also change shape from the collision.",Incomplete,7,A6,movement,fixed_R,,,,,
+102,102,IIZ3UYXS,"An active stone with five or more sides causes an inactive square to both darken, and to turn into a hexagon.  An active stone with three sides, however, will only cause an inactive square to darken.  I assume that the active state and the number of sides of an active stone are both key properties.",Incomplete,7,A6,movement,fixed_R,,,,,
+119,119,QI6Y8TK1,"The active stones ALWAYS change the inactive stones to a darker shade of blue (like Royal Blue), upon contact, irrespective of the color of the active stone. If the inactive stone has a greater number of sides than the active stone, upon contact, the color changes as noted previously but the shape remains unchanged. If the inactive stone has a fewer number of sides than the active stone, upon contact, again, the color changes as previously noted and the shape changes to have a total number of sides to be one greater than the active stone. Example: Triangle (irrespective of color, 3 sides) active stone changes a square (irrespective of color, 4 sides) inactive stone to darker blue (unless already that color) and shape remains the same, since it already has one more total number sides than the active stone. Another example: Pentagon (irrespective of color, 5 sides) active stone changes a square (irrespective of color, 4 sides) inactive stone to darker blue (unless already that color) and changes the shape to a hexagon (6 sides), so that the inactive stone has one more total number sides than the active stone.",Specific,10,A6,movement,fixed_R,,,,,
+120,120,KRDJ8EMY,after two stones demolition the lite blue changed to dark blue,Fuzzy,3,A6,movement,fixed_R,,,,,
+122,122,TTP22JQV,"If any of the stone hit triangle stone is inactive.it cannot create mysterious stone
+If any of the stone hit other than triangle stone is active.its create mysterious stone.",Fuzzy,5,A6,movement,fixed_R,,,,,
+123,123,OHA827HT,"active stone changes the color of the inactive stone to dark blue, as well as increasing the number of sides on the inactive stone as long as the active stone has at least more sides than the inactive one initially
+
+so an active stone with 6 sides will change a stone with 4 sides to a stone with 7 sides, while a stone with 3 sides won't change the sides to a stone that has 4 sides",Incomplete,6,A6,movement,fixed_R,,,,,
+130,130,0O3YTJ59,It adds another angle to the shape of the stone that is in the active state and changes the color to a darker color.,Specific,10,A6,movement,fixed_R,,,,,
+133,133,DMLJ0A3S,i don't no ,meaningless,2,A6,movement,fixed_R,,,,,
+168,168,ZXYSAA8C,I believe these stones are work well.,meaningless,2,A6,movement,fixed_R,,,,,
+169,169,Z3U5L1GC,all colors and shapes are change,meaningless,0,A6,movement,fixed_R,,,,,
+171,171,XUGZLZS4,all colors and shapes are change,meaningless,1,A6,movement,fixed_R,,,,,
+172,172,RKNPMZEH,All colours and shapes are change.,meaningless,1,A6,movement,fixed_R,,,,,
+173,173,Z6MU7DPA,All colors and shapes are changed. There are active and inactive stones.,Fuzzy,6,A6,movement,fixed_R,,,,,
+198,198,RXFLAJ1I,"When an active stone has more sides than the inactive stone, it will turn the inactive stone into the sides of the active stone plus one side (the effect). For example, if an active pentagon hits an inactive square, the inactive stone will turn into a hexagon (pentagon + 1 side). This does not happen if the active stone has fewer sides than the inactive stone, for example, if an active triangle hits an inactive square, the effect is still a square.
+
+The colour of the shapes does not matter, as the effect or result is always in the same shade, no matter what colour the active and inactive stones were before they hit each other.",Incomplete,8,A6,movement,fixed_R,,,,,
+199,199,AUQ3TVAH,The stone that hits the other stones taking it's shape,Fuzzy,6,A6,movement,fixed_R,,,,,
+200,200,E9GOPAIY,"The active stone always changes to a darker shade regardless of the colour of the inactive stone. However if the active stone has more sides the active stones sides will increase by one extra side. If the inactive stone has fewer sides then the active stone remains the same.
+
+
+",Specific,8,A6,movement,fixed_R,,,,,
+201,201,6OEO2FUO,"When an inactive stone (no yellow border) collides with an active stone the change in shape is reliant on the original number of sides of both stones before the collision. If the inactive stone had more sides than the active stone, no change in shape will occur. If the active stone had more sides than the inactive stone, a new shape will be created and will have one more side than the active stone has. 
+A colour change always happens to the inactive stone, no matter what, and always is for the inactive stone to change to a darker shade. ",Specific,10,A6,movement,fixed_R,,,,,
+202,202,BGI68U6Z,"If an inactive shape collides with an active shape, it becomes the dark colour. If the inactive shape also has less sides than the inactive shape, then the inactive shape will turn into a dark shape with more sides, else it will remain the same shape  ",Specific,11,A6,movement,fixed_R,,,,,
+16,16,551HJ12A,"When the dark shade stone interacts with light or medium stones it will make both stones dark inactive. 
+
+Whenever the hexagon or pentagon stones interact with another they make the other's shape to dark hexagon stone.
+
+When light stones interact with medium shade stones it makes other stone as dark without changing the shape.",Fuzzy,5,A7,indicator,fixed_R,,,,,
+17,17,9QXHDLCE,"the said to help guide you to harmony and balance to help you make clear, conscious decisions. This purple stone is said to be incredibly protective, healing, and purifying. It__ claimed it can help.",meaningless,0,A7,indicator,fixed_R,,,,,
+23,23,8X2DJRHD,If the left side of the shape has three corners then the right side of the shape will turn four corners. It adds one extra corner to the right side of the shape.,Incomplete,10,A7,indicator,fixed_R,,,,,
+24,24,4JIBMZ7C,"Once activated, they change into another shape. With the exception being the triangle. It did not change the shape of the square. So that leads me to believe that only shapes with more than 3 sides can change/activate the other shapes. ",Fuzzy,7,A7,indicator,fixed_R,,,,,
+27,27,VC5SEWL4,"When a triangle touches a square, it causes the square to become one shade darker. When a pentagon or hexagon touches a square, it causes the square to become one shade darker, and also take on the shape of the original stone + gain one extra side. So for example, a pentagon turns a square into a hexagon; a hexagon turns a square into a heptagon.",Specific,12,A7,indicator,fixed_R,,,,,
+28,28,YCYL47G4,The active with more than 3 sides changes the inactive after.,Fuzzy,3,A7,indicator,fixed_R,,,,,
+71,71,3L41QDPR,"I believe the property that seems to matter the most is the amount of sides on the active before shape. The triangles turned into squares, but shapes with more than three sides turned into hexagons.",Fuzzy,3,A7,indicator,fixed_R,,,,,
+78,78,4Z478076,The stones alter the shape of the stone when the shape has more than 3 sides. If the stone has 3 sides then it changes the color of the stone. ,Fuzzy,3,A7,indicator,fixed_R,,,,,
+93,93,FM3962XH,I think the number of side increases ( pentagon becomes hexagon after collision with a square) when two stones strike each other and the color also becomes bright.,Incomplete,9,A7,indicator,fixed_R,,,,,
+109,109,KQXVX71C,The characteristics of the stone changes depends on the characteristics of the stone which is making contact with it,Fuzzy,4,A7,indicator,fixed_R,,,,,
+114,114,3YEA4G1K,The shades and sides of the stones are changing depends on the mysterious powers of the stone which are colliding with it.,Fuzzy,2,A7,indicator,fixed_R,,,,,
+116,116,OCOT9T7N,stones which have more edges are seems to be active compared to three edged stones,Fuzzy,0,A7,indicator,fixed_R,,,,,
+118,118,RVC6X3NC,"The active stone will darken the inactive stone, and will change it's polygonal structure to 1 side greater than the active stone so long as it is of a greater n than the inactive stone.",Specific,8,A7,indicator,fixed_R,,,,,
+134,134,A3CUHYUH,"When a five-sided stone comes in contact with the inactive stone, the inactive stone becomes active with six or more sides.
+But when a three-sided stone comes in contact with the inactive stone, the inactive stone becomes active but maintains its original four sides.",Fuzzy,4,A7,indicator,fixed_R,,,,,
+ ,149,HLY7VN4B,Active and/or inactive stones on the left change active and/or inactive stones on the right to be dark blue stones with a number of sides equal to one more than the number of sides of the stone on the left.,Specific,11,A7,indicator,fixed_R,,,,,
+,150,38AII0SP,The darker triangle stones will turn the lighter stone dark. The pentagon will change the color and the shape. All stones were inactive and didn't change to active.,Fuzzy,5,A7,indicator,fixed_R,,,,,
+,151,MXVXF3AQ,"When the active stone (or at least he one on the left) touches the inactive(?) stone (the square on the right). The square will turn a dark color and a different shape depending on what the active(?) stone was.
+
+When the dark hexagon touched the square, the square became a dark heptagon. When the light, hexagon touched the square, it again became a dark heptagon. When the pentagon touched the square, the square became a hexagon, and when the triangle touched the light square it became a dark square.
+
+When the active stone touches the inactive stone (the square), the square will change into dark version of the shape with 1 more side than the active stone. So when the hexagon touches the square, it becomes a dark heptagon, and when the triangle touches the square it remains a square but changes to a dark color.",Incomplete,10,A7,indicator,fixed_R,,,,,
+,152,829DO8XP,"The shape changes to other shape when the interaction gets done between two stones. When no interaction between the stones, there is no change in shape.",Fuzzy,2,A7,indicator,fixed_R,,,,,
+,153,CNKDPP83,"The first stone will cause the color of the second stone to get darker and also increase the number of sides of the stone by one more than the first stone, unless the second stone is already has one more side.",Specific,18,A7,indicator,fixed_R,,,,,
+,154,UUZH3V2T,The mysterious stones work when it is interact with another stone to become an active one.,Fuzzy,9,A7,indicator,fixed_R,,,,,
+,155,ZD4J01BZ,"The mysterious stone interact with another stone, the properties of the stone will be changed",Fuzzy,6,A7,indicator,fixed_R,,,,,
+,156,5DM4JE1R,Triangles make the other shapes darker. Otherwise the inactive stones add more sides to the active stones.,Incomplete,8,A7,indicator,fixed_R,,,,,
+,157,YMB9VSLU,The stones are active based on the color of the color. It has great efforts when it joins the other shape. It was easily movable and attracted to others.,Fuzzy,1,A7,indicator,fixed_R,,,,,
+187,187,SDUM9XKF,"*Active stones turn inactive stones to a dark blue.  Also:
+- 5-sided active stones turn inactive stones into 6-sided shapes
+- 6-sided active stones turn inactive stones into 7-sided shapes
+- Triangle active stones turn inactive stones dark blue but they retain their shape
+
+* by ""active"" I mean the one that moves",Fuzzy,8,A7,indicator,fixed_R,,,,,
+188,188,7KUIAHG0,The power of one active mysterious stone replaces another inactive mysterious stone to hexagon. Then the power of one active mysterious stone did not replaces another inactive mysterious stone to hexagon because the two mysterious stones power was equal.,Fuzzy,6,A7,indicator,fixed_R,,,,,
+29,29,6GL9BBD1,"When a triangle hits a square, the square stays a square and becomes one shade darker. When anything other than a triangle hits the square, the square goes one shade darker and becomes a new shape. The square will take on the shape of what hit it plus one additional side. For example, if a shape with 5 sides hits the square, the square becomes a shape with 6 sides, etc.",Specific,13,A8,original,fixed_R,,,,,
+30,30,YHF7H23W,"The active stones turn the inactive stones they're colliding into a darker shade of themselves. More importantly, they turn inactive shapes into a shape that has one more side than the active shapes.",Specific,10,A8,original,fixed_R,,,,,
+31,31,LXYN4CEW,"Please note that these texts are included solely as exemplars in support of the ... __ think my friends will come, but I do not see a birthday cake.",meaningless,0,A8,original,fixed_R,,,,,
+41,41,WAOY5EOB,"When an active stone of a particular shape interacts with an inactive square stone, the active (causal) stone will turn the subject (outcome) stone into a new shape with one additional side. This new shaped stone will have as many sides as the first active stone + 1 additional side. For example, when a 5-sided active stone interacts with a 4-sided square inactive stone, it will turn the second stone into a 6-sided stone. The active stone will not, however, cause the stone it interacts with to become active, it will only add an additional side to the subject stone and leave it in an inactive status. ",Incomplete,10,A8,original,fixed_R,,,,,
+43,43,YNZKNJWA,"When the active stone hit the inactive stone, the inactive stone changes the color.",Fuzzy,0,A8,original,fixed_A,,,,,
+44,44,HVL8NG9C,"Active stones that are pentagons or hexagons turn inactive stones a darker color and increase their amount of sides by one.  Active stones that are triangles only turn the inactive stone a darker color.
+",Incomplete,3,A8,original,fixed_A,,,,,
+79,79,0HP2Q7JM,The light stone to touch another stone it can change to another stone like the pentagon or the hexagon touch the square stone to change at hexagon stone and other stay at same stone. ,Fuzzy,5,A8,original,fixed_R,,,,,
+81,81,OLPTF42T,very great,meaningless,0,A8,original,fixed_R,,,,,
+83,83,LF1YSDE2,Active hexagons turn shapes into dark inactive hexagons. Active triangles turn shapes into dark inactive versions of their current shape.,Fuzzy,3,A8,original,fixed_A,,,,,
+85,85,SMVFOKGD,The stones that have more then four sides to them and are active are able to change the physical shape of whatever stone that they hit into being the same as them. In contrast stones that have four sides or less can only change the color of whatever stone they hit when active so that they turn a darker shade.,Incomplete,3,A8,original,fixed_A,,,,,
+88,88,JUKUY9XO,The shape varies when the two stones are joined.,Fuzzy,0,A8,original,fixed_R,,,,,
+89,89,EGEAHWIP,I FOLLOW RULES,meaningless,0,A8,original,fixed_R,,,,,
+94,94,QIKOXSTY,"when the stone with greater side strikes the stone with lesser side ( when a pentagon strikes square , the square shaped stone becomes pentagon shaped) , the side of the stone increases resulting in change of its shape as well as the color.",Fuzzy,5,A8,original,fixed_R,,,,,
+96,96,VOVRDZ09,Shapes and the color of certain one might been a major part to predict and easy to guess.,Fuzzy,4,A8,original,fixed_A,,,,,
+101,101,KTCEQAIG,An active triangle makes the inactive stone a shade darker and an active stone with more than 3 sides makes the stone darker and change shape,Incomplete,9,A8,original,fixed_A,,,,,
+113,113,8FR08PZ2,The active stone change the shape and thickness of the color of the inactive stone by interacting with each other. The power of the active stone changes the properties of the inactive stone.,Fuzzy,6,A8,original,fixed_A,,,,,
+131,131,OHQ6M152,An active triangle makes inactive stones one shade darker. An active pentagon makes inactive stones one shade darker and adds 2 sides. An active hexagon makes inactive stones one shade darker and adds 3 sides. The inactive stone has no affect on the active stone.,Specific,11,A8,original,fixed_R,,,,,
+177,177,9FBT1X9O,The stone's shape changes from one shape to other when the interaction gets done. ,Fuzzy,5,A8,original,fixed_A,,,,,
+178,178,OJ1VX3LW,the characteristics of the stones are changing depends on the power of the colliding stone,Fuzzy,3,A8,original,fixed_A,,,,,
+181,181,FT6D72N5,"First, the he active stone does not change color or shape.  An active stone, no matter the color, will always cause the inactive stone to darken. If an active stone has less sides than the inactive, the inactive does not change shape.  If the active stone has more sides than the inactive then the inactive stone will increase the number of sides to one more than the active.  ",Specific,8,A8,original,fixed_R,,,,,
+182,182,JCSNXPMV,"When the active pentagon shaped stone hits another, the non active stone changes it's shape. When active triangle stone hits another, it changes the color of the non active stone.",Fuzzy,5,A8,original,fixed_R,,,,,
+184,184,ED67AWGL,"Once it is interacting with each other, the shape and color gets changing.",Fuzzy,5,A8,original,fixed_R,,,,,
+185,185,Q0LLHFAY,"The Triangle shaped stone turns the color of the stone but doesn't affect the shape of the target stones, but the mystery stones which had more than 5 sides did change the shape as well as the color of the target stone from light to a darker shade.",Specific,17,A8,original,fixed_R,,,,,

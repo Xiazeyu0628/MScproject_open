@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+
+<html>
+
+<meta charset="UTF-8"></meta>
+
+<head>
+
+<script src="../js/ChunksIncremental.js"></script>
+
+<script>
+// We need to create an instance of ChunksIncremental with (optional)
+// callbacks for messages and errors.
+let wso = new ChunksIncremental(
+"wss://somata.inf.ed.ac.uk/chunks/ws",
+// Callbacks like this could be empty, i.e., "() => {}",
+// but are useful for making sure data are transmitted.
+(chunksLeft,errStatus,m) => {
+console.log("Received message: " + m);
+let msgDiv = document.getElementById("messageDiv");
+msgDiv.appendChild(document.createTextNode(m+"\n"));
+msgDiv.appendChild(document.createElement('br'));  //<br> 可插入一个简单的换行符
+},
+
+(e) => {
+console.log("Encountered error: " + e);
+let errorDiv = document.getElementById("errorDiv");
+errorDiv.appendChild(document.createTextNode(e+"\n"));
+errorDiv.appendChild(document.createElement('br'));
+}
+
+);
+
+
+
+
+// Session ids should be strings, unique to each experimental session  会话
+let sessionId = "FAKE_SESSION_ID";
+
+// Experiment ids should be descriptive strings. For UG4/MInf/MSc projects,
+// they should include the surname of the experimenter.
+let experimentId = "MINIMAL_EXAMPLE";
+
+// Send a minimalist message, with just a timestamp.  发送一个极简的消息，只有一个时间戳。
+// In a real experiment, this would be replaced with everything that is being recorded.
+function sendExampleMessage() {
+let message = {sessionId: sessionId, experimentId: experimentId, timestamp: Date.now()};
+wso.sendChunk(message);
+}
+
+// This demonstrates what happens if you're missing a correct sessionId or experimentId
+// Notice that experimentId has been replaced by experiment_id in the object to be sent
+function sendIllFormedMessage() {
+let message = {sessionId: sessionId, experiment_id: experimentId, timestamp: Date.now()};
+wso.sendChunk(message);
+}
+
+//Websocket错误(不同于服务器发送的验证错误):
+</script>
+
+</head>
+<body>
+<title>Minimal example for data recording</title>
+<button onclick="sendExampleMessage()">Send message</button>
+<button onclick="sendIllFormedMessage()">Send message with bad experimentId field name</button>
+<p><b>Messages from server:</b>
+<div id="messageDiv"></div>
+<p><b>Websocket errors (distinct from validation errors sent from server):</b>
+</body>
+
+</html>
